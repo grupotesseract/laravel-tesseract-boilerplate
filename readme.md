@@ -1,7 +1,7 @@
 # Grupo Tesseract Boilerplate
 ## Laravel 5.7 + InfyOm Laravel Generator + Docker Vessel
 
-Made with [InfyOm Laravel Generator](http://labs.infyom.com/laravelgenerator/).
+![alt text](https://res.cloudinary.com/tesseract/image/upload/v1543904395/boilerplate-tesseract/boilerplate.png)
 
 ## Requirements
 
@@ -74,5 +74,5 @@ sudo fuser -k 80/tcp6
 
 - [Laravel](https://laravel.com/)
 - [Vessel](https://vessel.shippingdocker.com/)
-- [Laravel Generator](http://labs.infyom.com/laravelgenerator/)
+- [InfyOm Laravel Generator](http://labs.infyom.com/laravelgenerator/)
 - [Postman](https://www.getpostman.com/)
