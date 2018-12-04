@@ -1,5 +1,5 @@
 # Grupo Tesseract Boilerplate
-## Laravel 5.7 + InfyOm Laravel Generator + Docker Vessel
+## Laravel 5.7 + InfyOm Laravel Generator + Docker Vessel + PostgreSQL
 
 ![alt text](https://res.cloudinary.com/tesseract/image/upload/v1543904395/boilerplate-tesseract/boilerplate.png)
 
